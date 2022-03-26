@@ -1,0 +1,21 @@
+
+									 TIME TABLE
+ B.Tech Semester:2			 SECTION : m
+===================================================================================================================================================================
+Day			Period 1		Period 2		Period 3		Interval		 Period 4			Period 5
+			08:00-09.00am		09.00-10.00am		10.00-11.00am		11.00-11.30am		 11.30-12.30pm			12.30-1.30pm
+Monday			math			chem			comp			B				mech			EC
+Tuesday			comp			chem			math			R				Reserved		Reserved
+Wednesday		bio			chemlab			chemlab			E		
+Thursday		chem			comp			math			A				bio			EC	
+Friday			math			chem			comp			K				bio			EC	
+Saturday		mech			mech			math			 				chem			bio
+
+	Subject				Faculty
+	math				leela
+	chem				bmb
+	comp				vinay
+	bio				Jhinuk
+	EC				sumanth
+	mech				basavraj
+	chemlab				vbs
